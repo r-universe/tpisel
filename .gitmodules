@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "openmeteo"]
+	path = openmeteo
+	url = https://github.com/tpisel/openmeteo
+	shallow = true
+	registered = true
